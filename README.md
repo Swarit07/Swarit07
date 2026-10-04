@@ -2,10 +2,6 @@
 
 Computer Engineering student at the **University of Illinois Urbana-Champaign**. I build where circuits meet code, and lately where code meets AI.
 
-🏆 **1st place, UIUC Product Hackathon 2026** (Caterpillar challenge)
-
-[Portfolio](https://main-portfolio-lemon.vercel.app) · [LinkedIn](https://www.linkedin.com/in/swarit-sheel/) · [Devpost](https://devpost.com/Swarit07)
-
 ### Featured projects
 
 <table>
