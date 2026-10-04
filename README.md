@@ -1,6 +1,6 @@
 ### Hi, I'm Swarit 👋
 
-Computer Engineering student at the **University of Illinois Urbana-Champaign**, working where hardware meets software: embedded systems and digital logic, plus full-stack apps and AI tooling.
+Computer Engineering student at the **University of Illinois Urbana-Champaign**. I build where circuits meet code, and lately where code meets AI.
 
 🏆 **1st place, UIUC Product Hackathon 2026** (Caterpillar challenge)
 
@@ -27,8 +27,15 @@ Computer Engineering student at the **University of Illinois Urbana-Champaign**,
   </tr>
 </table>
 
+**More builds:** analog PWM motor car (no microcontroller) · vending-machine FSM in Verilog *and* on a breadboard · Arduino × Unity game · OpenCV study-space occupancy counter · systems programs in C and LC-3 assembly · Dockerized homelab
+
+### Experience
+
+**Liebherr Group**, Parts & Warehouse Co-op (2024): ran Kardex automated retrieval systems and shipped orders for customers and suppliers<br>
+**Leadership:** President of Programming Club · organized my high school's first hackathon (Mill Hacks) · DECA chapter executive
+
 ### Toolbox
 
 **Languages:** C · C++ · Python · Java · TypeScript · Verilog · LC-3 Assembly<br>
 **Hardware:** Arduino · Raspberry Pi · FPGA (Basys3) · Vivado · KiCad<br>
-**Web & AI:** React · Next.js · three.js · Supabase · Tailwind · MCP
+**Web & AI:** React · Next.js · three.js · Supabase · Docker · Ollama · Vercel AI SDK · MCP · OpenCV
