@@ -18,7 +18,25 @@ Computer Engineering student at the **University of Illinois Urbana-Champaign**.
       <h4><a href="https://github.com/Swarit07/career-os">CareerOS</a></h4>
       A job-search command center: kanban application tracking, resume tailoring with a local LLM, live job search and an AI career coach.
       <br><br>
+      ▶ <a href="https://github.com/Swarit07/career-os/blob/main/docs/media/careeros-promo-30s.mp4">Watch the 30s promo</a>
+      <br><br>
       <code>Next.js</code> <code>Supabase</code> <code>Postgres</code> <code>AI SDK</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/atlasos.jpg" alt="AtlasOS dashboard with demo data: daily brief, tasks, health rings, habits, finance and portfolio">
+      <h4>AtlasOS <sub>🔒 private</sub></h4>
+      A self-hosted life dashboard: health, habits, tasks, money, stocks and homelab in one place, with a Gemini assistant that answers from my own data.
+      <br><br>
+      <code>Next.js</code> <code>Postgres</code> <code>Gemini</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/healthap.jpg" alt="HealthAP Today screen (design prototype): level bar, daily progress ring, today's workout and category tiles">
+      <h4>HealthAP <sub>🔒 private</sub></h4>
+      A gamified iOS health tracker: supplements, skincare, hair and gym in one daily checklist, with XP, streaks and rank tiers.
+      <br><br>
+      <code>SwiftUI</code> <code>Swift</code> <code>iOS</code>
     </td>
   </tr>
 </table>
