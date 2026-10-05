@@ -47,7 +47,7 @@ Computer Engineering student at the **University of Illinois Urbana-Champaign**.
 
 ### Experience
 
-**Liebherr Group**, Parts & Warehouse Co-op (2024): ran Kardex automated retrieval systems and shipped orders for customers and suppliers<br>
+**Liebherr Canada**, Logistics Intern (Jul – Aug 2024): operated Kardex automated storage and retrieval systems and shipped orders for customers, vendors and suppliers<br>
 **Leadership:** President of Programming Club · organized my high school's first hackathon (Mill Hacks) · DECA chapter executive
 
 ### Toolbox
