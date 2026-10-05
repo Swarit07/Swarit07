@@ -2,6 +2,8 @@
 
 Computer Engineering student at the **University of Illinois Urbana-Champaign**. I build where circuits meet code, and lately where code meets AI.
 
+🌐 **[swaritsheel.com](https://swaritsheel.com)**: my portfolio, with every project plotted in 3D on hardware × software × AI axes.
+
 ### Featured projects
 
 <table>
