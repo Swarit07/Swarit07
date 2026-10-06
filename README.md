@@ -8,6 +8,17 @@ Computer Engineering student at the **University of Illinois Urbana-Champaign**.
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/Swarit07/murmur"><img src="assets/murmur-demo.gif" alt="Murmur turning “um so can we push the sync to thursday, no wait, friday, and uh loop in priya” into “Can we push the sync to Friday and loop in Priya?”"></a>
+      <h4><a href="https://github.com/Swarit07/murmur">Murmur</a> <sub>open source · macOS</sub></h4>
+      Private, on-device dictation for Mac. Hold a key, speak, let go, and clean, punctuated text appears wherever your cursor is (0.62 s median). Speech recognition and an LLM cleanup pass both run on the Mac itself.
+      <br><br>
+      <a href="https://murmur-website-six.vercel.app">Website</a> · <a href="https://github.com/Swarit07/murmur/releases/latest">Download</a> · <code>brew install --cask swarit07/murmur/murmur</code>
+      <br><br>
+      <code>Swift</code> <code>SwiftUI</code> <code>MLX</code> <code>Core Audio</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Swarit07/CAT-TimeMachine"><img src="assets/cat-track.jpg" alt="Cat Track: a 3D quarry simulator"></a>
       <h4><a href="https://github.com/Swarit07/CAT-TimeMachine">Cat Track: Jobsite Time Machine</a> 🏆</h4>
@@ -52,6 +63,6 @@ Computer Engineering student at the **University of Illinois Urbana-Champaign**.
 
 ### Toolbox
 
-**Languages:** C · C++ · Python · Java · TypeScript · Verilog · LC-3 Assembly<br>
+**Languages:** C · C++ · Python · Java · TypeScript · Swift · Verilog · LC-3 Assembly<br>
 **Hardware:** Arduino · Raspberry Pi · FPGA (Basys3) · Vivado · KiCad<br>
-**Web & AI:** React · Next.js · three.js · Supabase · Docker · Ollama · Vercel AI SDK · MCP · OpenCV
+**Web & AI:** React · Next.js · three.js · Supabase · Docker · Ollama · MLX · Vercel AI SDK · MCP · OpenCV
